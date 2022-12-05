@@ -14,7 +14,7 @@
     "Master Electron",
     "demo"
   ],
-  "author": "GitHub, Stackacademytv",
+  "author": "abhinandanT",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^9.0.0",
